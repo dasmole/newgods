@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: 7f667d944373e4f34b8f1ca3846b21eb
+timeCreated: 1454025884
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: priestess_0
+    21300002: priestess_1
+    21300004: priestess_2
+    21300006: priestess_3
+    21300008: priestess_4
+    21300010: priestess_5
+    21300012: priestess_6
+    21300014: priestess_7
+    21300016: priestess_8
+    21300018: priestess_9
+    21300020: priestess_10
+    21300022: priestess_11
+    21300024: priestess_12
+    21300026: priestess_13
+    21300028: priestess_14
+    21300030: priestess_15
+    21300032: priestess_16
+    21300034: priestess_17
+    21300036: priestess_18
+    21300038: priestess_19
+    21300040: priestess_20
+    21300042: priestess_21
+    21300044: priestess_22
+    21300046: priestess_23
+    21300048: priestess_24
+    21300050: priestess_25
+    21300052: priestess_26
+    21300054: priestess_27
+    21300056: priestess_28
+    21300058: priestess_29
+    21300060: priestess_30
+    21300062: priestess_31
+    21300064: priestess_32
+    21300066: priestess_33
+    21300068: priestess_34
+    21300070: priestess_35
+    21300072: priestess_36
+    21300074: priestess_37
+    21300076: priestess_38
+    21300078: priestess_39
+    21300080: priestess_40
+    21300082: priestess_41
+    21300084: priestess_42
+    21300086: priestess_43
+    21300088: priestess_44
+    21300090: priestess_45
+    21300092: priestess_46
+    21300094: priestess_47
+    21300096: priestess_48
+    21300098: priestess_49
+    21300100: priestess_50
+    21300102: priestess_51
+    21300104: priestess_52
+    21300106: priestess_53
+    21300108: priestess_54
+    21300110: priestess_55
+    21300112: priestess_56
+    21300114: priestess_57
+    21300116: priestess_58
+    21300118: priestess_59
+    21300120: priestess_60
+    21300122: priestess_61
+    21300124: priestess_62
+    21300126: priestess_63
+    21300128: priestess_64
+    21300130: priestess_65
+    21300132: priestess_66
+    21300134: priestess_67
+    21300136: priestess_68
+    21300138: priestess_69
+    21300140: priestess_70
+    21300142: priestess_71
+    21300144: priestess_72
+    21300146: priestess_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: priestess_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -13}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 10}
+        - {x: 2, y: 13}
+    - name: priestess_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -5, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+    - name: priestess_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: priestess_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: priestess_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 10}
+        - {x: 3, y: 13}
+    - name: priestess_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -5, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 9}
+    - name: priestess_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: priestess_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 10}
+        - {x: 7, y: 11}
+    - name: priestess_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 12}
+    - name: priestess_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: 7, y: 11}
+    - name: priestess_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -3, y: 11}
+        - {x: -8, y: 7}
+        - {x: -8, y: -14}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: priestess_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 11}
+    - name: priestess_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 4, y: 12}
+    - name: priestess_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -4, y: 11}
+        - {x: -8, y: 6}
+        - {x: -8, y: -13}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: priestess_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -3, y: 11}
+        - {x: -8, y: 7}
+        - {x: -8, y: -14}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: priestess_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -5, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 11}
+    - name: priestess_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -5, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 11}
+    - name: priestess_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: priestess_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -2, y: 13}
+        - {x: -8, y: 12}
+        - {x: -8, y: -14}
+        - {x: -4, y: -15}
+        - {x: 4, y: -14}
+        - {x: 9, y: -12}
+        - {x: 9, y: 10}
+    - name: priestess_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -12}
+        - {x: -7, y: -13}
+        - {x: 1, y: -13}
+        - {x: 9, y: -10}
+        - {x: 9, y: 11}
+        - {x: 7, y: 15}
+    - name: priestess_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -12}
+        - {x: -7, y: -13}
+        - {x: 1, y: -13}
+        - {x: 9, y: -10}
+        - {x: 9, y: 11}
+        - {x: 7, y: 15}
+    - name: priestess_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -8, y: -13}
+        - {x: -7, y: -14}
+        - {x: 1, y: -14}
+        - {x: 9, y: -11}
+        - {x: 9, y: 10}
+        - {x: 7, y: 14}
+    - name: priestess_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 10}
+        - {x: 7, y: 11}
+    - name: priestess_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -8, y: 10}
+        - {x: -8, y: -11}
+        - {x: 0, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 13}
+    - name: priestess_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -14}
+        - {x: 4, y: -14}
+        - {x: 8, y: -12}
+        - {x: 8, y: 10}
+        - {x: 2, y: 15}
+    - name: priestess_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -14}
+        - {x: 4, y: -14}
+        - {x: 8, y: -12}
+        - {x: 8, y: 10}
+        - {x: 2, y: 15}
+    - name: priestess_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: -12}
+        - {x: -1, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 11}
+        - {x: 3, y: 14}
+    - name: priestess_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 0}
+        - {x: 3, y: 3}
+    - name: priestess_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -8, y: 0}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -12}
+        - {x: 8, y: 0}
+        - {x: 6, y: 2}
+    - name: priestess_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -11}
+        - {x: -3, y: -15}
+        - {x: 4, y: -15}
+        - {x: 8, y: -13}
+        - {x: 8, y: 7}
+        - {x: 4, y: 12}
+    - name: priestess_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -9}
+        - {x: 8, y: 9}
+        - {x: 4, y: 14}
+    - name: priestess_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -9}
+        - {x: 8, y: 9}
+        - {x: 4, y: 14}
+    - name: priestess_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -12}
+        - {x: -2, y: -14}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+        - {x: 6, y: 13}
+    - name: priestess_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: priestess_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -7, y: -14}
+        - {x: -3, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: priestess_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: priestess_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -7, y: -14}
+        - {x: -3, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: priestess_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: priestess_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 5}
+        - {x: -9, y: -14}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 2, y: 12}
+    - name: priestess_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 9}
+        - {x: -5, y: 9}
+        - {x: -9, y: 2}
+        - {x: -9, y: -14}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 5}
+    - name: priestess_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 3}
+        - {x: -9, y: 1}
+        - {x: -9, y: -14}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: -2}
+        - {x: 5, y: 3}
+    - name: priestess_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 3}
+        - {x: -9, y: 1}
+        - {x: -9, y: -14}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: -2}
+        - {x: 5, y: 3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

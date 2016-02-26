@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b7b5144e517a04abdafb8e05005cb27a
+timeCreated: 1454433188
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - p1cam: {fileID: 486980, guid: d8baebac97a86470db21cc6ea512ab69, type: 2}
+  - p1coopcam: {instanceID: 0}
+  - p2coopcam: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

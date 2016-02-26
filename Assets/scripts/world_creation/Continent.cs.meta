@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: d142670d68ad6457e89b99b394f60430
+timeCreated: 1455646702
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - applied_biome: {fileID: 11483926, guid: 6ceaddecaacdd4e5c8df9545813741ed, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

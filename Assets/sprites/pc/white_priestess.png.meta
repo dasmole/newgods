@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: 80e88a87027d042c482f4827eaccfb64
+timeCreated: 1454272912
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: white_priestess_0
+    21300002: white_priestess_1
+    21300004: white_priestess_2
+    21300006: white_priestess_3
+    21300008: white_priestess_4
+    21300010: white_priestess_5
+    21300012: white_priestess_6
+    21300014: white_priestess_7
+    21300016: white_priestess_8
+    21300018: white_priestess_9
+    21300020: white_priestess_10
+    21300022: white_priestess_11
+    21300024: white_priestess_12
+    21300026: white_priestess_13
+    21300028: white_priestess_14
+    21300030: white_priestess_15
+    21300032: white_priestess_16
+    21300034: white_priestess_17
+    21300036: white_priestess_18
+    21300038: white_priestess_19
+    21300040: white_priestess_20
+    21300042: white_priestess_21
+    21300044: white_priestess_22
+    21300046: white_priestess_23
+    21300048: white_priestess_24
+    21300050: white_priestess_25
+    21300052: white_priestess_26
+    21300054: white_priestess_27
+    21300056: white_priestess_28
+    21300058: white_priestess_29
+    21300060: white_priestess_30
+    21300062: white_priestess_31
+    21300064: white_priestess_32
+    21300066: white_priestess_33
+    21300068: white_priestess_34
+    21300070: white_priestess_35
+    21300072: white_priestess_36
+    21300074: white_priestess_37
+    21300076: white_priestess_38
+    21300078: white_priestess_39
+    21300080: white_priestess_40
+    21300082: white_priestess_41
+    21300084: white_priestess_42
+    21300086: white_priestess_43
+    21300088: white_priestess_44
+    21300090: white_priestess_45
+    21300092: white_priestess_46
+    21300094: white_priestess_47
+    21300096: white_priestess_48
+    21300098: white_priestess_49
+    21300100: white_priestess_50
+    21300102: white_priestess_51
+    21300104: white_priestess_52
+    21300106: white_priestess_53
+    21300108: white_priestess_54
+    21300110: white_priestess_55
+    21300112: white_priestess_56
+    21300114: white_priestess_57
+    21300116: white_priestess_58
+    21300118: white_priestess_59
+    21300120: white_priestess_60
+    21300122: white_priestess_61
+    21300124: white_priestess_62
+    21300126: white_priestess_63
+    21300128: white_priestess_64
+    21300130: white_priestess_65
+    21300132: white_priestess_66
+    21300134: white_priestess_67
+    21300136: white_priestess_68
+    21300138: white_priestess_69
+    21300140: white_priestess_70
+    21300142: white_priestess_71
+    21300144: white_priestess_72
+    21300146: white_priestess_73
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: white_priestess_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -13}
+        - {x: -7, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -15}
+        - {x: 8, y: 10}
+        - {x: 2, y: 13}
+    - name: white_priestess_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -5, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+    - name: white_priestess_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: white_priestess_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+        - {x: 5, y: 12}
+    - name: white_priestess_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 10}
+        - {x: 3, y: 13}
+    - name: white_priestess_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 12}
+        - {x: -5, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 9}
+    - name: white_priestess_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -2, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: white_priestess_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 10}
+        - {x: 7, y: 11}
+    - name: white_priestess_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 12}
+    - name: white_priestess_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -8, y: 6}
+        - {x: -8, y: -14}
+        - {x: -7, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 8}
+        - {x: 7, y: 11}
+    - name: white_priestess_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -3, y: 11}
+        - {x: -8, y: 7}
+        - {x: -8, y: -14}
+        - {x: -5, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: white_priestess_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -8, y: 8}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 7, y: 11}
+    - name: white_priestess_24
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 4, y: 12}
+    - name: white_priestess_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 11}
+        - {x: -4, y: 11}
+        - {x: -8, y: 6}
+        - {x: -8, y: -13}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 6}
+    - name: white_priestess_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 12}
+        - {x: -8, y: 11}
+        - {x: -8, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 9}
+        - {x: 1, y: 12}
+    - name: white_priestess_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_30
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_32
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_33
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -5, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 11}
+    - name: white_priestess_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -5, y: 13}
+        - {x: -8, y: 9}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 11}
+    - name: white_priestess_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -15}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -8, y: 7}
+        - {x: -8, y: -15}
+        - {x: -7, y: -16}
+        - {x: 5, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 5, y: 12}
+    - name: white_priestess_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_46
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 13}
+        - {x: -2, y: 13}
+        - {x: -8, y: 12}
+        - {x: -8, y: -14}
+        - {x: -4, y: -15}
+        - {x: 4, y: -14}
+        - {x: 9, y: -12}
+        - {x: 9, y: 10}
+    - name: white_priestess_47
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -12}
+        - {x: -7, y: -13}
+        - {x: 1, y: -13}
+        - {x: 9, y: -10}
+        - {x: 9, y: 11}
+        - {x: 7, y: 15}
+    - name: white_priestess_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 15}
+        - {x: -8, y: -12}
+        - {x: -7, y: -13}
+        - {x: 1, y: -13}
+        - {x: 9, y: -10}
+        - {x: 9, y: 11}
+        - {x: 7, y: 15}
+    - name: white_priestess_49
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 14}
+        - {x: -8, y: -13}
+        - {x: -7, y: -14}
+        - {x: 1, y: -14}
+        - {x: 9, y: -11}
+        - {x: 9, y: 10}
+        - {x: 7, y: 14}
+    - name: white_priestess_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 11}
+        - {x: -8, y: 9}
+        - {x: -8, y: -13}
+        - {x: -5, y: -16}
+        - {x: 7, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 10}
+        - {x: 7, y: 11}
+    - name: white_priestess_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_53
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 13}
+        - {x: -8, y: 10}
+        - {x: -8, y: -11}
+        - {x: 0, y: -16}
+        - {x: 8, y: -16}
+        - {x: 8, y: 13}
+    - name: white_priestess_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -14}
+        - {x: 4, y: -14}
+        - {x: 8, y: -12}
+        - {x: 8, y: 10}
+        - {x: 2, y: 15}
+    - name: white_priestess_55
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 15}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -14}
+        - {x: 4, y: -14}
+        - {x: 8, y: -12}
+        - {x: 8, y: 10}
+        - {x: 2, y: 15}
+    - name: white_priestess_56
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: -12}
+        - {x: -1, y: -15}
+        - {x: 8, y: -15}
+        - {x: 8, y: 11}
+        - {x: 3, y: 14}
+    - name: white_priestess_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 3}
+        - {x: -8, y: -1}
+        - {x: -8, y: -14}
+        - {x: -6, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 0}
+        - {x: 3, y: 3}
+    - name: white_priestess_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 2}
+        - {x: -8, y: 0}
+        - {x: -8, y: -15}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 8, y: -12}
+        - {x: 8, y: 0}
+        - {x: 6, y: 2}
+    - name: white_priestess_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -8, y: 8}
+        - {x: -8, y: -11}
+        - {x: -3, y: -15}
+        - {x: 4, y: -15}
+        - {x: 8, y: -13}
+        - {x: 8, y: 7}
+        - {x: 4, y: 12}
+    - name: white_priestess_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -9}
+        - {x: 8, y: 9}
+        - {x: 4, y: 14}
+    - name: white_priestess_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -1, y: -13}
+        - {x: 6, y: -13}
+        - {x: 8, y: -9}
+        - {x: 8, y: 9}
+        - {x: 4, y: 14}
+    - name: white_priestess_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 13}
+        - {x: -8, y: 8}
+        - {x: -8, y: -12}
+        - {x: -2, y: -14}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+        - {x: 6, y: 13}
+    - name: white_priestess_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+    - name: white_priestess_66
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -7, y: -14}
+        - {x: -3, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: white_priestess_67
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: white_priestess_68
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 9}
+        - {x: -8, y: -9}
+        - {x: -7, y: -14}
+        - {x: -3, y: -16}
+        - {x: 5, y: -16}
+        - {x: 8, y: -14}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: white_priestess_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 12}
+        - {x: -8, y: 10}
+        - {x: -8, y: -11}
+        - {x: -7, y: -16}
+        - {x: 4, y: -16}
+        - {x: 8, y: -13}
+        - {x: 8, y: 9}
+        - {x: 3, y: 12}
+    - name: white_priestess_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 12}
+        - {x: -9, y: 5}
+        - {x: -9, y: -14}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: 7}
+        - {x: 2, y: 12}
+    - name: white_priestess_71
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 9}
+        - {x: -5, y: 9}
+        - {x: -9, y: 2}
+        - {x: -9, y: -14}
+        - {x: -4, y: -16}
+        - {x: 6, y: -16}
+        - {x: 9, y: -12}
+        - {x: 9, y: 5}
+    - name: white_priestess_72
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 3}
+        - {x: -9, y: 1}
+        - {x: -9, y: -14}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: -2}
+        - {x: 5, y: 3}
+    - name: white_priestess_73
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 3}
+        - {x: -9, y: 1}
+        - {x: -9, y: -14}
+        - {x: -6, y: -16}
+        - {x: 3, y: -16}
+        - {x: 9, y: -14}
+        - {x: 9, y: -2}
+        - {x: 5, y: 3}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
